@@ -1,7 +1,9 @@
 # ComfyUI-Krea2T-Enhancer
-(original readme by Capitan1R)
+(original readme by Capitan01R)
+Original author deleted the repo. This is an MIT-licensed copy.
+!! All the text below is the original documentation written by the author, Capitan1R. !!
 
-
+https://github.com/capitan01R/
 
 [![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
 
