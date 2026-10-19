@@ -5,9 +5,12 @@ Original author deleted the repo. This is an MIT-licensed copy.
 
 https://github.com/capitan01R/
 
-Capitan01R buymeacoffee link (not mine!) [![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
+Capitan01R buymeacoffee link (not mine!) :  [![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
 
-Prompt-adherence enhancement for Krea2 diffusion models in ComfyUI.
+----------------------------
+----------------------------
+
+# Prompt-adherence enhancement for Krea2 diffusion models in ComfyUI.
 
 This custom node patches the Krea2 text-fusion path during sampling and applies a controlled internal conditioning adjustment intended to improve how strongly the model follows prompt details.
 
