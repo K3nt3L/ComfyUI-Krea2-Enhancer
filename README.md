@@ -5,7 +5,7 @@ Original author deleted the repo. This is an MIT-licensed copy.
 
 https://github.com/capitan01R/
 
-[![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
+Capitan01R buymeacoffee link (not mine!) [![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
 
 Prompt-adherence enhancement for Krea2 diffusion models in ComfyUI.
 
