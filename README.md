@@ -1,6 +1,9 @@
 # ComfyUI-Krea2T-Enhancer
+(original readme by Capitan1R)
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
+
+
+[![Buy Him A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
 
 Prompt-adherence enhancement for Krea2 diffusion models in ComfyUI.
 
